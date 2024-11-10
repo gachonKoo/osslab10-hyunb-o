@@ -1,3 +1,5 @@
+#my first python program
+
 import sys
 
 number=int(sys.argv[1])
